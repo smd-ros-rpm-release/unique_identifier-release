@@ -1,0 +1,12 @@
+Source: ros-indigo-unique-id
+Section: misc
+Priority: extra
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-indigo-catkin, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-uuid-msgs
+Homepage: http://ros.org/wiki/unique_id
+Standards-Version: 3.9.2
+
+Package: ros-indigo-unique-id
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-uuid-msgs
+Description: ROS Python and C++ interfaces for universally unique identifiers.
