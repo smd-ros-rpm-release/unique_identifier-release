@@ -1,3 +1,25 @@
+## https://github.com/ros-geographic-info/unique_identifier-release.git (indigo) - 1.0.3-0
+
+User `joq@iron` released the packages in the `https://github.com/ros-geographic-info/unique_identifier-release.git` repository into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo --new-track https://github.com/ros-geographic-info/unique_identifier-release.git` on `Fri, 28 Mar 2014 18:33:33 -0000`
+
+These packages were released:
+- `unique_id`
+- `unique_identifier`
+- `uuid_msgs`
+
+Version of package(s) in repository `https://github.com/ros-geographic-info/unique_identifier-release.git`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.27`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## unique_identifier - 1.0.3-0
 
 User `joq@vision-4` released the packages in the `unique_identifier` repository by running `/usr/bin/bloom-release unique_identifier -t hydro -r hydro` on `Wed, 24 Jul 2013 22:03:48 -0000`
