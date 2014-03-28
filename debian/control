@@ -1,0 +1,12 @@
+Source: ros-indigo-unique-identifier
+Section: misc
+Priority: extra
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-indigo-catkin
+Homepage: http://ros.org/wiki/unique_identifier
+Standards-Version: 3.9.2
+
+Package: ros-indigo-unique-identifier
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-unique-id, ros-indigo-uuid-msgs
+Description: ROS messages and interfaces for universally unique identifiers. DEPRECATED for wet packages, use only to resolve dry stack dependencies.
