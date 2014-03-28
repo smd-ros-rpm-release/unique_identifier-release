@@ -1,0 +1,12 @@
+Source: ros-indigo-uuid-msgs
+Section: misc
+Priority: extra
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-std-msgs
+Homepage: http://ros.org/wiki/uuid_msgs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-uuid-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-message-runtime, ros-indigo-std-msgs
+Description: ROS messages for universally unique identifiers.
