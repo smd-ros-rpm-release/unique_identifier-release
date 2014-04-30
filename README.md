@@ -1,3 +1,25 @@
+## unique_identifier (indigo) - 1.0.4-0
+
+The packages in the `unique_identifier` repository were released into the `indigo` distro by running `/usr/bin/bloom-release unique_identifier -r indigo -t indigo` on `Wed, 30 Apr 2014 19:53:23 -0000`
+
+These packages were released:
+- `unique_id`
+- `unique_identifier`
+- `uuid_msgs`
+
+Version of package(s) in repository `unique_identifier`:
+- rosdistro version: `1.0.3-0`
+- old version: `1.0.3-0`
+- new version: `1.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.4`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.33`
+
+
 ## unique_identifier (hydro) - 1.0.4-0
 
 The packages in the `unique_identifier` repository were released into the `hydro` distro by running `/usr/bin/bloom-release unique_identifier -r hydro -t hydro` on `Wed, 30 Apr 2014 19:51:15 -0000`
